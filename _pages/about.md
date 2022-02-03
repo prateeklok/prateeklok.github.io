@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am Prateek, currently working at **Microsoft Research India** with **[Dr. Amit Sharma](http://www.amitsharma.in/)** where am I working on building socio-technical mental health platforms as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). I am also working with **[Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/)** as a research assistant on work related to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> <ins>and EHR analysis</ins>. I have also been pursuing independent research on streaming algorithms and heavy-hitters.
 
-My research interests lie in **complex network analysis** with a focus towards **Social Computing** and solving **optimization problems** in such networks. I am also interested in HCI and am passionate about building **socio-technical HCI systems**  where we can deploy computational models to learn about behavioural interaction of users and redesign a better system.
+My research interests lie in **complex network analysis** with a focus towards **Social Computing** and solving **optimization problems** in such networks. I am also interested in HCI and am passionate about building **socio-technical HCI systems**  where we can deploy computational models to learn about behavioural interaction of users/agents and redesign a better system. These includes behavioral sensoring and also security systems for fraud detection and beyond.
 My other broad interests include <ins>Data Mining</ins> and <ins>Machine Learning</ins> with applications in building **interpretable ML models** and **Recommender Systems**. 
 
 ### Past Life 
@@ -30,8 +30,10 @@ I have also been fortunate to work as a <ins>Summer of Code</ins> student under 
 News
 ------
 
-
-- **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI Workshop on Machine Learning for Operations Research 2021**
+- **[16/01/2022]** Paper on Large Scale Anomaly Detection accepted at PAKDD.
+- **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI-22 Workshop on Machine Learning for Operations Research**
+- **[11/12/2021]** Paper on <ins>Robust Deep Reinforcement Learning Control</ins> accepted at **AAAI-22 Workshop on
+Robust Artificial Intelligence System Assurance**
 - **[2/11/2021]** Acting as a <ins>Reviewer</ins> for **AISTATS 2022**
 - **[30/10/2021]** Paper on *Reaching out : Towards a sustainable allocation strategy between users and therapists* accepted at **Machine Learning in Public Health Workshop @NeurIPS**
 - **[15/9/2021]** Selected for **AISTATS 2022 Mentorship Program**. Working with [Dr. Aadirupa Saha](https://www.microsoft.com/en-us/research/people/aasa/) from Microsoft Research NYC on <ins>Anomaly Detection in Large Data Streams</ins> using Game Theory and RL.
@@ -45,7 +47,8 @@ News
 Publications
 ------
 
-_For complete list, check my Google Scholar Profile_
+
+You can also find my articles on <u><a href="https://scholar.google.co.in/citations?user=2CiQLkYAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>.</u>
 
 
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
@@ -53,7 +56,7 @@ _For complete list, check my Google Scholar Profile_
 <div style="text-align: left; margin-left:22px; width: 420px">
 <div style="font-style: italic">Would I regret later joining this Community ? Using temporal neighborhood information for community retention in a game theoretic community detection framework</div><div style="margin-top : 10px"><b>Prateek Chanda and Susanta Chakraborty</b></div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>AAAI-22 Workshop on Machine Learning for Operations Research (ML4OR)</b></div>
-<div style="margin-top : 6px"><a href="/files/NeurIPS_2021_MLH.pdf" style="padding-right:20px">PDF</a><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">PDF</a></div>
 </div>
 </div>
 
@@ -65,7 +68,7 @@ _For complete list, check my Google Scholar Profile_
 <div style="font-style: italic">Reaching out : Towards a sustainable allocation strategy between users and therapists
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b></div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>NeurIPS workshop on Machine Learning in Public Health</b></div>
-<div style="margin-top : 6px"><a href="/files/NeurIPS_2021_MLH.pdf" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="/files/NeurIPS_2021_MLH.pdf" style="padding-right:20px">PDF</a><a href="/files/NeurIPS_MLPH_Poster_Prateek.pdf" style="padding-right:20px">Poster</a></div>
 </div>
 </div>
 
@@ -78,7 +81,7 @@ _For complete list, check my Google Scholar Profile_
 <div style="font-style: italic">Human Computation and Crowdsourcing for Earth
 </div><div style="margin-top : 10px">Yasaman Rohanifar, Syed Ishtiaque Ahmed, Sharifa Sultana, <b>Prateek Chanda</b>, Malay Bhattacharyya</div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>AAAI HCOMP</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="/files/AAAI_HCOMP_2021_Paper.pdf" style="padding-right:20px">PDF</a><a href="/files/AAAI_HCOMP_2021_Slides" style="padding-right:20px">Slides</a></div>
 </div>
 </div>
 
@@ -100,7 +103,7 @@ _For complete list, check my Google Scholar Profile_
 <img src="/images/wm_learning.png" alt="drawing" style="width: 300px; height: 150px;"/>
 <div style="text-align: left; margin-left:12px; width: 420px">
 <div style="font-style: italic">Does the Relationship Between Modules Facilitate in Predicting System Anomaly?
-</div><div style="margin-top : 10px">Harsh Borse*, <b>Prateek Chanda*</b>, Paromita Dutta, Soumik Sinha, Mainack Mondal, Bivas Mitra</div><div style="margin-top : 10px"><ins>Under Review</ins>, <b>PAKDD 2022 (Full Paper)</b></div>
+</div><div style="margin-top : 10px">Harsh Borse*, <b>Prateek Chanda*</b>, Paromita Dutta, Soumik Sinha, Mainack Mondal, Bivas Mitra</div><div style="margin-top : 10px"><ins>Accepted</ins>, <b>PAKDD 2022 (Full Paper)</b></div>
 Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop ML for Systems</b></div>
 <div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
 </div>
@@ -114,7 +117,7 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 <div style="font-style: italic">MINDNOTES : A Mobile Platform to enable users to break stigma around mental health and connect with therapists
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>, Amogh Wagh, Jemimah Johnson, Swaraj Renghe, Vageesh Chandramouli, Amit Sharma, Seema Mehrotra</div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>CSCW 2021 (Short Paper)</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://dl.acm.org/doi/pdf/10.1145/3462204.3482895" style="padding-right:20px">PDF</a><a href="/files/CSCWDemo - Presentation.pdf" style="padding-right:20px">Slides</a></div>
 </div>
 </div>
 
@@ -128,7 +131,7 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 <div style="font-style: italic">Distributed Anomaly Detection in Edge Streams using Frequency based Sketch Datastructures
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>, Malay Bhattacharyya</div>
 <div style="margin-top : 10px"><ins>Under Review</ins> <b>VLDB (Full Paper)</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://arxiv.org/pdf/2111.13949" style="padding-right:20px">PDF</a></div>
 </div>
 </div>
 
@@ -141,7 +144,7 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 <div style="font-style: italic">A Novel Graph Based Clustering Approach to Document Topic Modeling
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>, Asit Kr. Das</div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>9th ICCCNT @ IISc Bangalore</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://ieeexplore.ieee.org/document/8494134" style="padding-right:20px">PDF</a><a href="https://docs.google.com/presentation/d/e/2PACX-1vSKMlE6Czm5Mz1woL1MyZxettRdOW33DOl40UjZhz_8Omuy1_DLP-aFuZ8qFvPZI1dsMK1RNje5FWnh/pub?start=false&loop=false&delayms=3000" style="padding-right:20px">Slides</a></div>
 </div>
 </div>
 
@@ -154,7 +157,7 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 <div style="font-style: italic">The SunPy project: Open source development and status of the version 1.0 core package
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>, SunPy Community</div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>Astrophysical Journal</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab4f7a/pdf" style="padding-right:20px">PDF</a><a href="/files/SunPy-1.0-AGU2019.pdf" style="padding-right:20px">Slides</a></div>
 </div>
 </div>
     
@@ -166,7 +169,7 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 <div style="font-style: italic">SunPy 2.0: the community-developed open-source solar data analysis environment for Python
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>, SunPy Community</div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>AGU Fall Meeting Abstracts 2020</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://ui.adsabs.harvard.edu/abs/2020AGUFMSH0100006M/abstract" style="padding-right:20px">PDF</a><a href="/files/sunpy_scipy2020_bobra.pdf" style="padding-right:20px">Slides</a></div>
 </div>
 </div>
 
@@ -209,7 +212,7 @@ Technical Reports
 <div style="text-align: left; margin-left:12px; width: 100%">
 <div style="font-style: italic; font-family : Helvetica"><b>Recommendation Strategies as Intervention in a Mental Health Platform</b>
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>,Amit Sharma</div>
-<iframe src="https://microsoftapc-my.sharepoint.com/personal/v-pratec_microsoft_com/_layouts/15/Doc.aspx?sourcedoc={603f1b15-1bb9-4f7b-8b8d-436c9358d264}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="450px" height="321px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></div>
+<iframe src="https://onedrive.live.com/embed?cid=39900EAD11E4F1DF&amp;resid=39900EAD11E4F1DF%212403&amp;authkey=ACxs07Mjpu_o-k4&amp;em=2&amp;wdAr=1.7777777777777777" width="450px" height="321px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></div>
 </div>
 
 
