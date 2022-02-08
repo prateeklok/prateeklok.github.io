@@ -12,7 +12,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "minimal-mistakes-jekyll"
 
 gem "github-pages", group: :jekyll_plugins
 
