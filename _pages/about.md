@@ -14,7 +14,7 @@ Hi, I am Prateek, currently working at **Microsoft Research India** with **[Dr. 
 My research interests lie in **complex network analysis** with a focus towards **Social Computing** and solving **optimization problems** in such networks. I am also interested in HCI and am passionate about building **socio-technical HCI systems**  where we can deploy computational models to learn about behavioural interaction of users/agents and redesign a better system. These includes behavioral sensoring and also security systems for fraud detection and beyond.
 My other broad interests include <ins>Data Mining</ins> and <ins>Machine Learning</ins> with applications in building **interpretable ML models** and **Recommender Systems**. 
 
-### Past Life 
+### Past Life
 
 Previously I have been fortunate to work with **Complex Network Research Group at IIT Kharagpur** with Dr. [Niloy Ganguly](https://scholar.google.com/citations?user=hCbFmUUAAAAJ&hl=en) and Dr. [Bivas Mitra](https://scholar.google.co.in/citations?user=mQ57itUAAAAJ&hl=en) as a research assistant and with Dr. [Ashish Ghosh](https://www.isical.ac.in/~ash/) at the **Indian Statistical Institute**. I did my undergraduate in Bachelors in Computer Science from **[Indian Institute of Engineering Science and Technology, Shibpur](https://www.iiests.ac.in/)** where I did my undergraduate thesis on <ins>Game Theoretic based Community Detection</ins> with **[Prof. Susanta Chakraborty](https://scholar.google.com/citations?user=ADJHcp0ar4sC&hl=en)** and **[Prof. Malay Kule](https://scholar.google.com/citations?user=TgQJmU0AAAAJ&hl=en)**
 
@@ -31,7 +31,7 @@ I have also been fortunate to work as a <ins>Summer of Code</ins> student under 
 News
 ------
 
-- **[16/01/2022]** Paper on Large Scale Anomaly Detection accepted at PAKDD.
+- **[16/01/2022]** Paper on Large Scale Anomaly Detection accepted at **PAKDD**.
 - **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI-22 Workshop on Machine Learning for Operations Research**
 - **[11/12/2021]** Paper on <ins>Robust Deep Reinforcement Learning Control</ins> accepted at **AAAI-22 Workshop on
 Robust Artificial Intelligence System Assurance**
@@ -233,11 +233,26 @@ Technical Reports
 
 
 
+## Collaborators
+
+Microsoft Research India
+
+- Amit Sharma
+- Vageesh Chandramouli
+- Aadirupa Saha  
+
+Indian Statistical Institute
+
+- Malay Bhattacharyya
+- Ashish Ghosh
+
+![](../images/kudoboard_1644572845093.jpg)
 
 
-For more info
+For more info 
 ------
 
 Check out my [CV](/files/Prateek_Chanda_Resume_website.pdf) or [mail to me](mailto:prateekkol21@gmail.com)
 
 -----
+

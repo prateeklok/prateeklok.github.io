@@ -8,6 +8,9 @@ redirect_from:
 ---
 **Research/Industry projects**
 
+- **MindNotes- Mobile Application to better** (*Advisor - Amit Sharma, Microsoft Research India*)
+
+
 - **Real Time Anomaly Detection in Enterprise environment - NetApp Collaboration**
 (*Advisor - Niloy Ganguly, Bivas Mitra, Mainack Mondal, Indian Institute of Technology, Kharagpur*)
   - Proposed a novel anomaly detection along with failure prediction in an enterprise setting with modules/microservices interacting with each other.

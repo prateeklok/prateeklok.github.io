@@ -33,6 +33,8 @@ Awarded the GAABESU Research award for outstanding research contribution during 
 
 **Jagadish Bose National Talent Search Fellow**
 
+Awarded Jagadish Bose National Talent Search Fellow for academic excellence in school.
+
 **Qualified Regional Mathematics Olympiad**
 
 **All India Engineering Entrace Examination Merit 2015**
