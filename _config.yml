@@ -11,9 +11,9 @@ title                    : "Prateek Chanda"
 title_separator          : "-"
 name                     : &name "Prateek Chanda"
 description              : &description "Aspiring Researcher"
-url                      : https://prateekiiest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://prateeklok.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "prateekiiest/prateekiiest.github.io"
+repository               : "prateeklok/prateeklok.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &prateekiiest
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
