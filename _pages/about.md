@@ -246,6 +246,7 @@ Indian Statistical Institute
 - [Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/)(*Assistant Professor at Indian Statistical Institute*)
 - [Ashish Ghosh](https://www.isical.ac.in/~ash/)(*Professor & former Head, Machine Intelligence Unit at Indian Statistical Institute*)
 
+
 ![](../images/kudoboard_1644572845093.jpg)
 
 
