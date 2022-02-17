@@ -94,7 +94,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <div style="font-style: italic">A Sketch Based Game Theoretic Approach to Detect Anomalous Dense Sub-Communities in Large Data Streams
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>,  Aadirupa Saha</div>
 <div style="margin-top : 10px"><i>Under Review</i>, <b>AISTATS 2022 (Full Paper)</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://arxiv.org/abs/2111.15525" style="padding-right:20px">PDF</a></div>
 </div>
 </div>
 
@@ -237,14 +237,15 @@ Technical Reports
 
 Microsoft Research India
 
-- Amit Sharma
-- Vageesh Chandramouli
-- Aadirupa Saha  
+- [Amit Sharma](https://www.microsoft.com/en-us/research/people/amshar/) (*Principal Researcher at Microsoft Research India*)
+- [Vageesh Chandramouli](https://www.microsoft.com/en-us/research/people/vachand/)(*Senior Research SDE*)
+- [Aadirupa Saha](https://www.microsoft.com/en-us/research/people/aasa/)(*PostDoctoral Researcher at Microsoft Research*)  
 
 Indian Statistical Institute
 
-- Malay Bhattacharyya
-- Ashish Ghosh
+- [Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/)(*Assistant Professor at Indian Statistical Institute*)
+- [Ashish Ghosh](https://www.isical.ac.in/~ash/)(*Professor & former Head, Machine Intelligence Unit at Indian Statistical Institute*)
+
 
 ![](../images/kudoboard_1644572845093.jpg)
 
