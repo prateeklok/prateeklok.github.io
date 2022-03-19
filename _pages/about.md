@@ -106,7 +106,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <div style="font-style: italic">Does the Relationship Between Modules Facilitate in Predicting System Anomaly?
 </div><div style="margin-top : 10px">Harsh Borse*, <b>Prateek Chanda*</b>, Paromita Dutta, Soumik Sinha, Mainack Mondal, Bivas Mitra</div><div style="margin-top : 10px"><ins>Accepted</ins>, <b>PAKDD 2022 (Full Paper)</b></div>
 Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop ML for Systems</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="/files/Netapp-17-05100-mdap.pdf" style="padding-right:20px">PDF</a></div>
 </div>
 </div>
 
