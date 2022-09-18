@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Prateek, currently working at **Microsoft Research India** with **[Dr. Amit Sharma](http://www.amitsharma.in/)** where am I working on building socio-technical mental health platforms as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). I am also working with **[Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/)** as a research assistant on work related to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> <ins>and EHR analysis</ins>. I have also been pursuing independent research on streaming algorithms and heavy-hitters.
+Hi, I am Prateek, currently a 1st year **PhD student** at [IIT Bombay CSE](https://www.cse.iitb.ac.in/).
+
+Previously I worked at **Microsoft Research India** with **[Dr. Amit Sharma](http://www.amitsharma.in/)** where am I working on building socio-technical mental health platforms as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). I am also working with **[Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/)** as a research assistant on work related to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> <ins>and EHR analysis</ins>. I have also been pursuing independent research on streaming algorithms and heavy-hitters.
 
 
 My research interests lie in **complex network analysis** with a focus towards **Social Computing** and solving **optimization problems** in such networks. I am also interested in HCI and am passionate about building **socio-technical HCI systems**  where we can deploy computational models to learn about behavioural interaction of users/agents and redesign a better system. These includes behavioral sensoring and also security systems for fraud detection and beyond.
