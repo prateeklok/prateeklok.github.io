@@ -10,6 +10,9 @@ redirect_from:
 
 - **MindNotes- Mobile Application to better** (*Advisor - Amit Sharma, Microsoft Research India*)
 
+- Developed an end-to-end mental health application targetted towards Indian users.
+- Explored different recommendation system architecture that can help users get accurate interventions based on their symptoms.
+
 
 - **Real Time Anomaly Detection in Enterprise environment - NetApp Collaboration**
 (*Advisor - Niloy Ganguly, Bivas Mitra, Mainack Mondal, Indian Institute of Technology, Kharagpur*)
